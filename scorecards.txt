@@ -1,0 +1,38 @@
+Score Card for gabe:
+---------------------------------------
+Category         | Score
+---------------------------------------
+Ones             | -1
+Twos             | -1
+Threes           | -1
+Fours            | -1
+Fives            | -1
+Sixes            | -1
+Three of a Kind  | -1
+Four of a Kind   | -1
+Full House       | -1
+Small Straight   | -1
+Large Straight   | 40
+Yahtzee          | -1
+Chance           | -1
+---------------------------------------
+
+Score Card for fabi:
+---------------------------------------
+Category         | Score
+---------------------------------------
+Ones             | -1
+Twos             | -1
+Threes           | -1
+Fours            | -1
+Fives            | -1
+Sixes            | -1
+Three of a Kind  | -1
+Four of a Kind   | -1
+Full House       | -1
+Small Straight   | -1
+Large Straight   | -1
+Yahtzee          | -1
+Chance           | -1
+---------------------------------------
+
