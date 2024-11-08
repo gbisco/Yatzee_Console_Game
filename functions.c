@@ -1,3 +1,9 @@
+/*
+Gabriel Bisco Reinato
+CptS121 section 8
+February 14th 2019
+"Program designed to emulate Yahtzee game"
+*/
 #include "Header.h"
 
 // Prints game details
