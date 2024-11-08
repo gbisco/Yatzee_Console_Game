@@ -1,6 +1,6 @@
 # Yahtzee Game Project
 
-This project is a console-based Yahtzee game where multiple players compete by rolling dice and scoring points across various categories. The goal is to calculate the total score for each player and determine the winner based on the highest score.
+This project is a console-based Yahtzee game. The goal is to calculate the total score for each player and determine the winner based on the highest score.
 
 ## Features
 
